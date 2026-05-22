@@ -1,4 +1,4 @@
-// Insertion and Display of Singly Linked-List
+// Creation and Display of Singly Linked-List
 
 # include <stdio.h>
 # include <stdlib.h>
